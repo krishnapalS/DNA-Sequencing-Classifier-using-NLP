@@ -14,6 +14,8 @@ Let’s look at DNA sequence strings manipulation using Python programming langu
 
 ### DNA Sequence Classification using Machine Learning Algorithms
 
+![DNA Sequencing using NLP](https://i.ytimg.com/vi/7j-XbF8ABiM/maxresdefault.jpg)
+
 There is a huge demand of applying ML to genomics dataset analytics today. Many questions about it are still not very clear at all. Let me mentions some of them:
 
 - What DNA sequence encoder to use based on the selected ML model?
