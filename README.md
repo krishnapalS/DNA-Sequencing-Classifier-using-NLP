@@ -1,6 +1,9 @@
 # DNA-Sequencing-Classifier-using-NLP
 
 ### DNA Sequence
+
+![DNA Sequencing](https://cdn.britannica.com/64/47664-004-7088EE3D/human-genome-deoxyribonucleic-acid-base-pairs-bases.jpg)
+
 Based on the National Human Genome Research Institute, Deoxyribonucleic Acid (DNA) is the chemical compound which consists of the instructions needed to develop and direct the activities of nearly all living organisms. 
 
 A DNA molecule is a double helix structure consisting of two twisted paired strands. DNA consists of four bases which are adenine [A], cytosine [C], guanine [G], or thymine [T]. 
